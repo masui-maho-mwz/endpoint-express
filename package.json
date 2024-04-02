@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "migrate": "prisma migrate dev",
     "seed": "tsx ./prisma/seed/index.ts",
-    "server": "tsx app.ts"
+    "dev": "tsx app.ts"
   },
   "author": "",
   "license": "ISC",
